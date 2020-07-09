@@ -1,5 +1,5 @@
 # Contributors
-- Atia
+- Atia H
 - Hariprasath
 - Git Goode
 - [Faraz Suhail] (https://https://github.com/Faraz710)
