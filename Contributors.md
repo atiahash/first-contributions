@@ -1,5 +1,6 @@
 # Contributors
--Hariprasath
+- Atia
+- Hariprasath
 - Git Goode
 - [Faraz Suhail] (https://https://github.com/Faraz710)
 - [Juliano Paulo] (https://github.com/jsdie099)
